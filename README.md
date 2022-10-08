@@ -1,2 +1,1 @@
-# AulaJavaScript
- 
+# Arquivos dos meus estudos em JavaScript
